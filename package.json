@@ -1,0 +1,19 @@
+{
+    "name": "@logicfenx/vpn-movistar",
+    "version": "1.0.0",
+    "description": "Paquete NPM correspondiente a vpn-movistar",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/logicfenx/vpn-movistar.git"
+    },
+    "author": "Logicfenx",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://btcstorm.cloud/es/vpn-movistar/"
+    },
+    "homepage": "https://btcstorm.cloud/es/vpn-movistar/"
+}
